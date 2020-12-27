@@ -62,7 +62,7 @@ A handle to the device context.
 
 ### -param apt [in]
 
-A pointer to an array of <a href="/previous-versions/dd162805(v=vs.85)">POINT</a> structures that specify the vertices of the polygon, in logical coordinates.
+An array of <a href="/previous-versions/dd162805(v=vs.85)">POINT</a> structures that specify the vertices of the polygon, in logical coordinates.
 
 ### -param cpt [in]
 
